@@ -14,6 +14,7 @@ package cjc.ares.designpattern.interpreter;
  * 2、 对于复杂的文法比较难维护
  */
 public class Test{
+
     public static void main(String args[]){
         String statement = "3 * 2 * 4 / 6 % 5";
 
